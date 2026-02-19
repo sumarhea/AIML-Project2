@@ -1,3 +1,5 @@
+# Assignement Notebook - 
+
 # What Drives the Price of a Used Car?
 
 ## ** A Data‑Driven Analysis for Used Car Dealers ** ##
@@ -67,3 +69,4 @@ Visual analysis confirms a clear downward trend between price and both age and m
 
 ### ** Conclusion ** ###
 By applying the CRISP‑DM framework and a transparent modeling approach, this analysis identifies the primary drivers of used‑car prices and translates them into actionable insights. Dealers can use these findings to optimize inventory selection, improve pricing accuracy, and reduce risk in a competitive used‑car market
+
