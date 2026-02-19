@@ -1,4 +1,4 @@
- [Assignement Notebook] (https://github.com/sumarhea/AIML-Project2/blob/main/prompt_II.ipynb)
+ Assignement Notebook https://github.com/sumarhea/AIML-Project2/blob/main/prompt_II.ipynb
 
 # What Drives the Price of a Used Car?
 
@@ -69,6 +69,7 @@ Visual analysis confirms a clear downward trend between price and both age and m
 
 ### ** Conclusion ** ###
 By applying the CRISP‑DM framework and a transparent modeling approach, this analysis identifies the primary drivers of used‑car prices and translates them into actionable insights. Dealers can use these findings to optimize inventory selection, improve pricing accuracy, and reduce risk in a competitive used‑car market
+
 
 
 
